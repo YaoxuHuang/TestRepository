@@ -4,7 +4,7 @@ public interface DemoTest01 {
 
 	void addUser();
 	
-	//新加的方法
+	//YaoxuHuang鏂版坊鍔犵殑鏂规硶
 	void newFun();
 	
 }
